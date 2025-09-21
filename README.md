@@ -10,3 +10,7 @@ The transistor receiving the higher base voltage conducts more current, turning 
 The other transistor remains OFF (or dim), showing the comparator action.
 
 This makes it easy to visualize how a differential amplifier compares two DC input signals without requiring oscilloscopes or complex equipment.
+
+
+<h2>Application:</h2>
+This forms the input stage of Op- Amp (Differential Amplifier)
